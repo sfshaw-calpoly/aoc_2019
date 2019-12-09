@@ -1,4 +1,4 @@
-r: 2
+r: 3
 
 1: 
 	cargo run --bin day1
